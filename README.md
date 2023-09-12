@@ -1,3 +1,4 @@
-### Hi there 👋
+### Currently:
 
-- 🌱 I mostly mess around with AutoHotkey and Vim
+- Writing
+- Updating AHK scripts for v2
