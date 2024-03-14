@@ -1,5 +1,5 @@
 Currently:
 
 - Writing
-- Learning Python
+- Learning (Bash and Python)
 - ~~Updating AHK scripts for v2~~
