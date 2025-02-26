@@ -1,4 +1,3 @@
-Currently:
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantomdiorama)
 
-- Writing
-- Always learning (Bash and Python)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomdiorama)
